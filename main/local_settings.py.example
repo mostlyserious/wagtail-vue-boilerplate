@@ -1,0 +1,12 @@
+SECRET_KEY = 'g9!_txhl3&0fhr$k*kn8760h0k#s(sfplqgquw^$e6z27oz3dj'
+
+ALLOWED_HOSTS = ['*']
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'dbname',
+        'USER': 'dbuser',
+        'PASSWORD': 'dbpass',
+    }
+}
