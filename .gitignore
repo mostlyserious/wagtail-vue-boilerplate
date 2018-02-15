@@ -1,0 +1,9 @@
+/.idea
+/venv
+/__pycache__/
+*.pyc
+*.pyo
+/node_modules
+/main/local_settings.py
+webpack-stats.json
+/static/bundles
