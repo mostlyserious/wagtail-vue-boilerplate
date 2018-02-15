@@ -14,8 +14,6 @@ Copy `main/local_settings.py.example` to `main/local_settings.py`
 
 Create new Postgres database and add credentials to `main/local_settings.py`
 
-Add a new S
-
 ## Running
 
 ```shell
